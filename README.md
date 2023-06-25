@@ -1,7 +1,7 @@
 # Hey! I'm SwivelDev!
-Founder of VITALESOFT, I am a student software/game developer. I mainly use C#, C++, and Python.
+I am a student software/game developer. I mainly use C#, C++, and Python.
 # What I use
-OS: I use two machines, one running Windows 10, and the other running Linux Mint.
+OS: I use two machines, one running MacOS, and the other running Arch Linux.
 My Code Editors of choice are Sublime Text and Visual Studio Code.
 
 heheheha
